@@ -6,3 +6,13 @@ ac*.m4
 autom4te.cache
 config.*
 !config.m4
+configure*
+install-sh
+libtool
+ltmain.sh
+missing
+modules
+mkinstalldirs
+run-tests.php
+statgrab.la
+statgrab.lo
