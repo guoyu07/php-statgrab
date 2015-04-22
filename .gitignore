@@ -1,3 +1,8 @@
 .deps
 .libs
 .svn
+Makefile*
+ac*.m4
+autom4te.cache
+config.*
+!config.m4
