@@ -16,3 +16,9 @@ mkinstalldirs
 run-tests.php
 statgrab.la
 statgrab.lo
+tests/*.diff
+tests/*.exp
+tests/*.log
+tests/*.out
+tests/*.php
+tests/*.sh
