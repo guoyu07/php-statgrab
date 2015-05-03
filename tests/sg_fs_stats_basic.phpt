@@ -12,9 +12,9 @@ $fs_stats_first = array_slice($fs_stats, 0, 1);
 var_dump($fs_stats_first);
 
 ?>
---XFAIL--
-libstatgrab generates an error that will likely be fixed by upgrading to v0.91
 --EXPECTF--
+Total Count: %d
+
 array(1) {
   [0]=>
   array(16) {
